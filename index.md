@@ -17,7 +17,7 @@ at Carnegie Mellon University in Pittsburgh, USA.
 
 ##### Scientific Committee
 
-* [Thorsten Altenkirch](https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch)
+* [Thorsten Altenkirch](https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch) (University of Nottingham, UK)
 * [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon 
 University, USA)
 * [Benno van den Berg](https://staff.fnwi.uva.nl/b.vandenberg3/) (University of Amsterdam, Netherlands)
