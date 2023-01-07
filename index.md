@@ -7,7 +7,7 @@ title: "Homotopy Type Theory 2023"
 The Second International **Conference on [Homotopy Type
 Theory](https://homotopytypetheory.org)** (HoTT 2023) will take place 
 
->**Monday May 22 to Thursday May 25 (noon)** 
+**Monday May 22 to Thursday May 25** 
 
 at Carnegie Mellon University in Pittsburgh, USA.
 
