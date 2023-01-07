@@ -25,7 +25,7 @@ University, USA)
 * [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/) (University of Manchester, UK), **chair**
 * [Hugo Herbelin](http://pauillac.inria.fr/~herbelin/) (INRIA, France)
 * [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com) (Stockholm University, Sweden)
-* [Maria Emilia Maietti](https://www.math.unipd.it/~maietti/) (University of Padova)
+* [Maria Emilia Maietti](https://www.math.unipd.it/~maietti/) (University of Padova, Italy)
 * [Emily Riehl](https://math.jhu.edu/~eriehl/) (Johns Hopkins University, USA)
 
 ##### Local Committee
