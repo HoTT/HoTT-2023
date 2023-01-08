@@ -32,5 +32,5 @@ University, USA)
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
 * [Andrew Swan](https://awswan.github.io/)
 
-<small> Contact: [hott2023conference@gmail.com](mailto:hott2019conference@gmail.com).
+<small> Contact: [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com).
 </small>
