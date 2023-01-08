@@ -11,10 +11,6 @@ Theory](https://homotopytypetheory.org)** (HoTT 2023) will take place
 
 at Carnegie Mellon University in Pittsburgh, USA.
 
-### Invited Conference Speakers
-
-* Add invited speakers here
-
 ##### Scientific Committee
 
 * [Thorsten Altenkirch](https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch) (University of Nottingham, UK)
