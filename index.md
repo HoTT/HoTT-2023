@@ -9,7 +9,7 @@ Theory](https://homotopytypetheory.org)** (HoTT 2023) will take place
 
 **Monday May 22 to Thursday May 25** 
 
-at Carnegie Mellon University in Pittsburgh, USA.
+at Carnegie Mellon University in Pittsburgh, USA.  (See [here](https://hott.github.io/HoTT-2019/) for the previous conference.)
 
 ##### Scientific Committee
 
