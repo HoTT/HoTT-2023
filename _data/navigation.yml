@@ -9,13 +9,13 @@
   url: /call-for-papers/
   excerpt: Call for papers and submisson information
 
-- title: Registration
-  url: /registration/
-  excerpt: Conference and summer school registration
+# - title: Registration
+#   url: /registration/
+#   excerpt: Conference and summer school registration
 
-- title: Accommodation
-  url: /accommodation/
-  excerpt: Accommodation
+# - title: Accommodation
+#   url: /accommodation/
+#   excerpt: Accommodation
 
 - title: Local information
   url: /local/
@@ -25,9 +25,9 @@
 #   url: /poster/
 #   excerpt: Conference Poster.
 
-- title: Programme
-  url: /programme/
-  excerpt: Schedule of all events
+# - title: Programme
+#   url: /programme/
+#   excerpt: Schedule of all events
 
 # Add back when participants list is available
 #- title: Participants
