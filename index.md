@@ -11,6 +11,13 @@ Theory](https://homotopytypetheory.org)** (HoTT 2023) will take place
 
 at Carnegie Mellon University in Pittsburgh, USA.  (See [here](https://hott.github.io/HoTT-2019/) for the previous conference.)
 
+### Invited Speakers
+
+* [Julie Bergner](https://sites.google.com/view/julie-bergner/) (University of Virginia, USA)
+* [Thierry Coquand](https://www.cse.chalmers.se/~coquand/) (Chalmers University, Sweden)
+* [András Kovács](https://andraskovacs.github.io/) (Eötvös Loránd University, Hungary)
+* [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/) (Stockholm University, Sweden)
+
 ##### Scientific Committee
 
 * [Thorsten Altenkirch](https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch) (University of Nottingham, UK)
