@@ -13,13 +13,11 @@ theory, including but not limited to:
 * Cubical type theories and cubical models
 * Formalization of mathematics and computer science in homotopy type theory / univalent foundations
 
-Please submit 1-paragraph abstracts through the EasyChair
-conference system here:
+Please submit 1-paragraph abstracts through our [EasyChair
+submission page](https://easychair.org/conferences/?conf=hott2023).
 
-[https://easychair.org/conferences/?conf=hott2019](https://easychair.org/conferences/?conf=hott2019)
-
-The submission deadline is **1 June 2019**; we expect to notify accepted
-submissions by 15 June.
+The submission deadline is **3rd March 2023**; we expect to notify accepted
+submissions by 24th March.
 
 This conference is run on the "mathematics model" rather than the
 "computer science model": full papers will not be submitted,
@@ -28,15 +26,4 @@ submissions will not be refereed, and submission is not a publication
 information, including registration, accomodation options, and travel,
 will be available as the conference approaches on this web site.
 
-Please email [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com) with any questions.
-
-##### Best Student Paper Award
-
-A prize of $500 (and distinguished billing in the conference program)
-will be awarded to the best paper submitted by a student (or recently
-graduated student).  To be eligible for this prize, you must include
-in your submission (or send separately to
-[hott2019conference@gmail.com](mailto:hott2019conference@gmail.com)) a
-link to a preprint version of your paper (e.g. on arXiv or a private
-web space).
-
+Please email [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com) with any questions.
