@@ -6,31 +6,8 @@ title: "Travel & local information"
 
 ### Venue
 
-Both the summer school and the conference will take place in the **Giant Eagle
+The conference will take place in the **Giant Eagle
 Auditorium**, room number A51 in CMU's **Baker Hall** building.
-
-### Maps
-
-We have created a **[conference
-map](https://www.google.com/maps/d/viewer?mid=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&ll=40.448091221474606%2C-79.94874355000002&z=13)**
-on Google Maps containing locations in Pittsburgh, including
-
-* The conference venue
-* Accommodations
-* Locations of the summer school barbecue and the conference reception and dinner
-* Places to eat on and around campus
-* Bars and restaurants in the area
-* Destinations of possible Wednesday excursions
-
-There are also some [official
-maps](https://www.cmu.edu/visit/maps-parking-transportation.html) provided by
-the university, including a 3D map of the campus.
-<!-- 
-CMU maps of the 
-[Here](https://www.cmu.edu/visit/index.html) is some official information on how
-to get to the campus. And
- you can find
-a 3D campus map. -->
 
 ### Travel from the Airport
 
@@ -51,7 +28,7 @@ throughout the day.
 ### Getting around in Pittsburgh
 
 There are public busses in Pittsburgh, the fare is paid on entering the bus and
-is $2.75 to be payed in cash (there is no change). If you need to change the bus
+is $2.75 to be payed in cash (there is no change) or [via an app](https://www.rideprt.org/fares-and-passes/mobileticket/). If you need to change the bus
 to get somewhere, you have to pay again. It is possible to get a bus card and
 load it using a credit card at bus stations (≠ bus stop). A bus station in
 Shadyside is [Negley
