@@ -13,8 +13,8 @@ theory, including but not limited to:
 * Cubical type theories and cubical models
 * Formalization of mathematics and computer science in homotopy type theory / univalent foundations
 
-Please submit 1-paragraph abstracts through our [EasyChair
-submission page](https://easychair.org/conferences/?conf=hott2023).
+Please submit abstracts (up to 2 pages) through our [EasyChair
+submission page](https://easychair.org/conferences/?conf=hott2023). Submissions open 3rd February.
 
 The submission deadline is **3rd March 2023**; we expect to notify accepted
 submissions by 24th March.
