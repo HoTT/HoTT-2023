@@ -26,10 +26,10 @@ University, USA)
 * [Benno van den Berg](https://staff.fnwi.uva.nl/b.vandenberg3/) (University of Amsterdam, Netherlands)
 * [Dan Christensen](https://jdc.math.uwo.ca/) (University of Western Ontario, Canada)
 * [Nicola Gambino](https://personalpages.manchester.ac.uk/staff/nicola.gambino/) (University of Manchester, UK), **chair**
-* [Hugo Herbelin](http://pauillac.inria.fr/~herbelin/) (INRIA, France)
+* [Hugo Herbelin](https://pauillac.inria.fr/~herbelin/) (INRIA, France)
 * [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com) (Stockholm University, Sweden)
 * [Maria Emilia Maietti](https://www.math.unipd.it/~maietti/) (University of Padova, Italy)
-* [Emily Riehl](https://math.jhu.edu/~eriehl/) (Johns Hopkins University, USA)
+* [Emily Riehl](https://emilyriehl.github.io/) (Johns Hopkins University, USA)
 
 ##### Local Committee
 
