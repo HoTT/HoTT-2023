@@ -12,7 +12,7 @@ theory, including but not limited to:
 * Applications of univalence and higher inductive types
 * Cubical type theories and cubical models
 * Formalization of mathematics and computer science in homotopy type theory / univalent foundations
-* Higher topos theory
+* Higher dimensional category theory
 
 
 Please submit abstracts (up to 2 pages) through our [EasyChair
