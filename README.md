@@ -14,7 +14,6 @@ Page source files:
 * [`index.md`](./index.md) -- main conference page
 * [`call-for-papers.md`](./call-for-papers.md) -- call for papers
 * [`registration.md`](./registration.md) -- registration information
-* [`registration.md`](./registration.md) -- registration information
 * [`local.md`](./local.md) -- local information
 
 

@@ -4,6 +4,8 @@ permalink: /call-for-papers/
 title: "Call for papers"
 ---
 
+<!-- # Call for papers -->
+
 Contributions are welcome in all areas related to homotopy type
 theory, including but not limited to:
 
@@ -14,18 +16,24 @@ theory, including but not limited to:
 * Formalization of mathematics and computer science in homotopy type theory / univalent foundations
 * Higher dimensional category theory
 
+## Submissions
 
-Please submit abstracts (up to 2 pages) through our [EasyChair
-submission page](https://easychair.org/conferences/?conf=hott2023). Submissions open 3rd February.
+Submissions open 3rd February, the **deadline is 3rd March 2023**. We expect to
+notify accepted submissions by 24th March.
 
-The submission deadline is **3rd March 2023**; we expect to notify accepted
-submissions by 24th March.
-
-This conference is run on the "mathematics model" rather than the
+<!-- This conference is run on the "mathematics model" rather than the
 "computer science model": full papers will not be submitted,
 submissions will not be refereed, and submission is not a publication
 (although a proceedings volume might be organized afterwards).  More
 information, including registration, accomodation options, and travel,
-will be available as the conference approaches on this web site.
+will be available as the conference approaches on this web site. -->
+
+Submissions will be handled via EasyChair. In order to submit your abstract, please follow these steps:
+1. If you don’t have it, download the latest EasyChair Latex class and related files from [here](https://easychair.org/publications/easychair.zip).
+2. Download the [hott-2023-template.tex](../files/hott-2023-template.tex) file
+   and save it in the same directory as the EasyChair Latex class file.
+3. Write your abstract (maximum 2 pages) using the template and prepare a pdf file.
+4. Submit the pdf file via the [EasyChair
+submission page](https://easychair.org/conferences/?conf=hott2023)
 
 Please email [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com) with any questions.

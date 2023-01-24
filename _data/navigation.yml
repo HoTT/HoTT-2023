@@ -7,7 +7,13 @@
 # Will be replaced by "Accepted papers" later
 - title: Call for papers
   url: /call-for-papers/
+  # excerpt: Call for papers
   excerpt: Call for papers and submisson information
+
+# - title: Submission
+#   url: /submission/
+#   excerpt: Submisson information
+  
 
 # - title: Registration
 #   url: /registration/
