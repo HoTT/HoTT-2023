@@ -33,7 +33,8 @@ Submissions will be handled via EasyChair. In order to submit your abstract, ple
 2. Download the [hott-2023-template.tex](../files/hott-2023-template.tex) file
    and save it in the same directory as the EasyChair Latex class file.
 3. Write your abstract (maximum 2 pages) using the template and prepare a pdf file.
-4. Submit the pdf file via the [EasyChair
-submission page](https://easychair.org/conferences/?conf=hott2023)
+4. Submit the pdf file via the [EasyChair submission
+page](https://easychair.org/conferences/?conf=hott2023) (you'll have to create
+an account if you don't have one yet).
 
 Please email [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com) with any questions.
