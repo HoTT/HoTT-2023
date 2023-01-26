@@ -18,7 +18,7 @@ theory, including but not limited to:
 
 ## Submissions
 
-Submissions open 3rd February, the **deadline is 3rd March 2023**. We expect to
+Submissions open 3rd February, the **Deadline is 3rd March 2023**. We expect to
 notify accepted submissions by 24th March.
 
 <!-- This conference is run on the "mathematics model" rather than the
@@ -36,5 +36,7 @@ Submissions will be handled via EasyChair. In order to submit your abstract, ple
 4. Submit the pdf file via the [EasyChair submission
 page](https://easychair.org/conferences/?conf=hott2023) (you'll have to create
 an account if you don't have one yet).
+
+Talks reporting on work in progress are welcome!
 
 Please email [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com) with any questions.
