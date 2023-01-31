@@ -31,6 +31,15 @@ University, USA)
 * [Maria Emilia Maietti](https://www.math.unipd.it/~maietti/) (University of Padova, Italy)
 * [Emily Riehl](https://emilyriehl.github.io/) (Johns Hopkins University, USA)
 
+##### Sponsorship
+
+HoTT 2023 is an official ASL-sponsored meeting. The Association for Symbolic
+Logic offers modest student travel awards to attend ASL-Sponsored meetings.
+Women and members of minority groups are strongly encouraged to apply. For
+information on how to apply see the [ASL
+page](https://aslonline.org/student-travel-awards/).
+
+
 ##### Local Committee
 
 * [Mathieu Anel](http://mathieu.anel.free.fr/)
