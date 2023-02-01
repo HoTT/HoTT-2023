@@ -6,15 +6,16 @@ title: "Travel & local information"
 
 ### Venue
 
-The conference will take place in the **Giant Eagle
-Auditorium**, room number A51 in CMU's **Baker Hall** building.
+The conference will take place in **Porter Hall 100** on CMU's campus.
 
 ### Travel from the Airport
 
-The cheapest way to get to Pittsburgh from the airport is the [28x bus
+The cheapest way to get to Pittsburgh from the airport is the [28X bus
 line](https://www.portauthority.org/pdfs/28X.pdf), which stops close to the CMU
-Campus (Stop MOREWOOD AVE AT FORBES AVE FS) and the Shadyside Inn (Stop
-FIFTH AVE OPP AIKEN AVE).
+campus (Stop MOREWOOD AVE AT FORBES AVE FS) and a 15-minute walk from the Hyatt
+House (Stop FIFTH AVE OPP AIKEN AVE). Alternatively, you can arrive directly at
+the Hyatt House from the airport by transferring from the 28X to one of several
+other buses.
 
 There is also the possibility to book a
 [SuperShuttle](https://www.supershuttle.com/locations/pittsburgh-pit/) in
@@ -27,8 +28,8 @@ throughout the day.
 
 ### Getting around in Pittsburgh
 
-There are public busses in Pittsburgh, the fare is paid on entering the bus and
-is $2.75 to be payed in cash (there is no change) or [via an app](https://www.rideprt.org/fares-and-passes/mobileticket/). If you need to change the bus
+There are public buses in Pittsburgh; the fare is paid on entering the bus and
+can be paid by $2.75 in cash (there is no change) or [via an app](https://www.rideprt.org/fares-and-passes/mobileticket/). If you need to change the bus
 to get somewhere, you have to pay again. It is possible to get a bus card and
 load it using a credit card at bus stations (≠ bus stop). A bus station in
 Shadyside is [Negley
