@@ -16,7 +16,7 @@ theory, including but not limited to:
 * Formalization of mathematics and computer science in homotopy type theory / univalent foundations
 * Higher dimensional category theory
 
-## Submissions
+### Submissions
 
 Submissions open 3rd February, the **Deadline is 3rd March 2023**. We expect to
 notify accepted submissions by 24th March.
@@ -40,3 +40,17 @@ an account if you don't have one yet).
 Talks reporting on work in progress are welcome!
 
 Please email [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com) with any questions.
+
+### Best Student Paper Award
+
+A prize of $500 (and distinguished billing in the conference program)
+will be awarded to the best paper submitted by a student (or recently
+graduated student).
+
+The program committee will select a paper based, either entirely or mainly, on
+work carried out by a student who has not been awarded their PhD yet.
+
+To be eligible for this prize, you must include in your submission (or send
+separately to
+[hott2019conference@gmail.com](mailto:hott2019conference@gmail.com)) a link to a
+preprint version of your paper (e.g. on arXiv or a private web space).
