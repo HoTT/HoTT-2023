@@ -48,8 +48,7 @@ will be awarded to the best paper submitted by a student (or recently
 graduated student).
 
 The program committee will select a paper based, either entirely or mainly, on
-work carried out by a student who has not yet, or only recently, been awarded
-their PhD.
+work carried out by a current or recently defended student.
 
 To be eligible for this prize, you must include in your submission (or send
 separately to
