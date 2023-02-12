@@ -48,9 +48,10 @@ will be awarded to the best paper submitted by a student (or recently
 graduated student).
 
 The program committee will select a paper based, either entirely or mainly, on
-work carried out by a student who has not been awarded their PhD yet.
+work carried out by a student who has not yet, or only recently, been awarded
+their PhD.
 
 To be eligible for this prize, you must include in your submission (or send
 separately to
-[hott2019conference@gmail.com](mailto:hott2019conference@gmail.com)) a link to a
+[hott2023conference@gmail.com](mailto:hott2023conference@gmail.com)) a link to a
 preprint version of your paper (e.g. on arXiv or a private web space).
