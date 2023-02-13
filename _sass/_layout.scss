@@ -160,8 +160,6 @@
 	@at-root {
 		.page-content {
 		    @include fill-parent;
-		    > p, li {
-			max-width: 45em; }
 			// larger font for intro paragraph
 			// > p {
 			// 	&:first-child {
