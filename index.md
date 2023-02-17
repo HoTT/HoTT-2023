@@ -19,6 +19,10 @@ at Carnegie Mellon University in Pittsburgh, USA.  (See
 * [András Kovács](https://andraskovacs.github.io/) (Eötvös Loránd University, Hungary)
 * [Anders Mörtberg](https://staff.math.su.se/anders.mortberg/) (Stockholm University, Sweden)
 
+There will also be a special **Vladimir Voevodsky Memorial Lecture** given by
+
+* [Michael Shulman](https://home.sandiego.edu/~shulman/) (University of San Diego, USA)
+
 ##### Scientific Committee
 
 * [Thorsten Altenkirch](https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch) (University of Nottingham, UK)
