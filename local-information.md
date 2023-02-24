@@ -45,6 +45,7 @@ We have reserved a number of rooms at the [Hyatt
 House](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp),
 which is at a 30 minute walking distance from the conference venue
 ([map](https://goo.gl/maps/Czod8sxApR5nAzbE8)), at a reduced rate of **$119**
-for a room with one king size bed, and **$149** per night for a room with
-two queen size beds. Booking at these special rates is accessible via [this
+for a room with one king size bed, and **$149** per night for a room with two
+queen size beds (suitable for sharing). Booking at these special rates is
+accessible via [this
 link](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp?corp_id=G-CMUL).
