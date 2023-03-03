@@ -18,7 +18,7 @@ theory, including but not limited to:
 
 ### Submissions
 
-Submissions open 3rd February, the **Deadline is 19th March 2023**. We expect to
+Submissions open 3rd February, the (extended) **Deadline is 19th March 2023**. We expect to
 notify accepted submissions by 24th March.
 
 <!-- This conference is run on the "mathematics model" rather than the
