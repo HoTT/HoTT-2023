@@ -39,12 +39,6 @@ an account if you don't have one yet).
 
 Talks reporting on work in progress are welcome!
 
-### Registration
-
-Registration is independent of paper submission. 
-The registration page will open by April 1.
-
-
 ### Student paper award
 
 A prize of $500 (and distinguished billing in the conference program)

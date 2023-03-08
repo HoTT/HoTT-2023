@@ -15,9 +15,9 @@
 #   excerpt: Submisson information
   
 
-# - title: Registration
-#   url: /registration/
-#   excerpt: Conference and summer school registration
+- title: Registration
+  url: /registration/
+  excerpt: Conference registration
 
 # - title: Accommodation
 #   url: /accommodation/
