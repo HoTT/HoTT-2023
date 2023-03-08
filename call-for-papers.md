@@ -39,7 +39,11 @@ an account if you don't have one yet).
 
 Talks reporting on work in progress are welcome!
 
-Please email [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com) with any questions.
+### Registration
+
+Registration is independent of paper submission. 
+The registration page will open by April 1.
+
 
 ### Best Student Paper Award
 
@@ -50,7 +54,10 @@ graduated student).
 The program committee will select a paper based, either entirely or mainly, on
 work carried out by a current or recently defended student.
 
-To be eligible for this prize, you must include in your submission (or send
-separately to
-[hott2023conference@gmail.com](mailto:hott2023conference@gmail.com)) a link to a
-preprint version of your paper (e.g. on arXiv or a private web space).
+To be eligible for this prize, you must include in your submission 
+(or send separately to [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com)) 
+a link to a preprint version of your paper (e.g. on arXiv or a private web space).
+
+### Further information
+
+Please email [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com) with any questions.
