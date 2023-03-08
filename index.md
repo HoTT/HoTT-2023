@@ -50,7 +50,9 @@ Women and members of minority groups are strongly encouraged to apply.
 Students and recently graduated postdocs can be supported, whether they submit a paper or not.
 **More information on how to apply will be made available here soon.**
 
-
+[![Air Force Office of Scientific Research](images/afosr-logo.jpg){: width="120"}](https://www.afrl.af.mil/AFOSR/) &nbsp;&nbsp;&nbsp;
+[![National Science Foundation](images/nsf-logo.png){: width="120"}](https://www.nsf.gov/)  &nbsp;&nbsp;&nbsp;
+[![Association for Symbolic Logic](images/asl-logo.png)](https://aslonline.org/)
 
 ##### Local Committee
 
