@@ -45,7 +45,7 @@ Registration is independent of paper submission.
 The registration page will open by April 1.
 
 
-### Best Student Paper Award
+### Student paper award
 
 A prize of $500 (and distinguished billing in the conference program)
 will be awarded to the best paper submitted by a student (or recently
