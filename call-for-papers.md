@@ -19,7 +19,7 @@ theory, including but not limited to:
 ### Submissions
 
 Submissions open 3rd February, the (extended) **Deadline is 19th March 2023**. We expect to
-notify accepted submissions by 24th March.
+notify accepted submissions by ~~24th~~ 31st March.
 
 <!-- This conference is run on the "mathematics model" rather than the
 "computer science model": full papers will not be submitted,
