@@ -49,7 +49,7 @@ page](https://aslonline.org/student-travel-awards/).
 which will provide modest student travel awards to attend HoTT 2023. 
 Women and members of minority groups are strongly encouraged to apply. 
 Students and recently graduated postdocs can be supported, whether they submit a paper or not.
-Instructions to apply can be found [here](/registration/).
+Instructions on how to apply can be found [here](/registration/).
 
 [![Air Force Office of Scientific Research](images/afosr-logo.jpg){: width="120"}](https://www.afrl.af.mil/AFOSR/) &nbsp;&nbsp;&nbsp;
 [![National Science Foundation](images/nsf-logo.png){: width="120"}](https://www.nsf.gov/)  &nbsp;&nbsp;&nbsp;
