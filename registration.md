@@ -18,7 +18,7 @@ registration, it is still possible to apply for reimbursement.
 ### Financial support
 
 Limited financial support is available through the NSF for students to cover
-registration, travel, accommodation expenses. To apply please fill in [this
+registration, travel, and accommodation expenses. To apply please fill in [this
 form](https://docs.google.com/forms/d/e/1FAIpQLSciFgKNEMhExLc7w2y6uazRUnfyAmd9OAo2L8MmifWiJjhE9Q/viewform),
 and additionally ask your supervisor to send a brief email supporting your
 application to
