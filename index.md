@@ -53,7 +53,8 @@ Instructions on how to apply can be found [here](https://hott.github.io/HoTT-202
 
 [![Air Force Office of Scientific Research](images/afosr-logo.jpg){: width="120"}](https://www.afrl.af.mil/AFOSR/) &nbsp;&nbsp;&nbsp;
 [![National Science Foundation](images/nsf-logo.png){: width="120"}](https://www.nsf.gov/)  &nbsp;&nbsp;&nbsp;
-[![Association for Symbolic Logic](images/asl-logo.png)](https://aslonline.org/)
+[![Association for Symbolic Logic](images/asl-logo.png)](https://aslonline.org/) &nbsp;&nbsp;&nbsp;
+[![Dietrich College of Humanities and Social Sciences](/images/cmu-dietrich-college-logo.jpg){: width="176"}](https://www.cmu.edu/dietrich/)
 
 ##### Local Committee
 
