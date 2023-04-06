@@ -8,7 +8,7 @@ To register, follow [this
 link](https://starrez.housing.cmu.edu/StarRezPortalConference/go/Conferences/homotopy2023)
 and click **Sign Up** at the bottom of the page.
 The registration fee is **$100** until May 1, and **$125** after May 1 for late
-registration.
+registration. The final deadline for registration is May 14.
 
 Students who want to apply for NSF funding (see below) should begin the
 registration process, but not finish and pay. If approved, we will then pay
