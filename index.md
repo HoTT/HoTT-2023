@@ -64,5 +64,7 @@ Instructions on how to apply can be found [here](https://hott.github.io/HoTT-202
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
 * [Andrew Swan](https://awswan.github.io/)
 
+The meeting is being hosted by the [HoTT group at CMU](https://www.cmu.edu/dietrich/philosophy/hott/).
+
 <small> Contact: [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com).
 </small>
