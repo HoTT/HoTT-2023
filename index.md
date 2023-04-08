@@ -39,11 +39,11 @@ University, USA)
 
 ##### Sponsorship
 
-HoTT 2023 is an official ASL-sponsored meeting. ~~The Association for Symbolic
+HoTT 2023 is an official ASL-sponsored meeting. The Association for Symbolic
 Logic offers modest student travel awards to attend ASL-Sponsored meetings.
-Women and members of minority groups are strongly encouraged to apply. For
+Women and members of minority groups are strongly encouraged to apply. ~~For
 information on how to apply see the [ASL
-page](https://aslonline.org/student-travel-awards/).~~ The deadline for ASL sponsorship has passed.
+page](https://aslonline.org/student-travel-awards/).~~ The deadline for applications has passed.
 
 **NEWS:** We are happy to announce a grant from the National Science Foundation 
 which will provide modest student travel awards to attend HoTT 2023. 
