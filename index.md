@@ -61,7 +61,7 @@ Instructions on how to apply can be found [here](https://hott.github.io/HoTT-202
 As an ASL-sponsored conference, HoTT 2023 adopts the [ASL meeting code of conduct](https://aslonline.org/wp-content/uploads/2023/03/ASL-Code-For-Meetings.pdf). The designated trusted person is Egbert Rijke, who can be contacted in person at the meeting, 
 or by email at e dot m dot hislastname at gmail dot com.
 
-##### Local Committee
+#### Local Committee
 
 * [Mathieu Anel](http://mathieu.anel.free.fr/)
 * [Carlo Angiuli](http://www.cs.cmu.edu/~cangiuli/)
