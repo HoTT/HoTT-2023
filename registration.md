@@ -25,9 +25,3 @@ application to
 [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com).
 Applications from underrepresented groups are especially encouraged. Recent
 graduates are also welcome to apply.
-
-### Code of conduct
-
-We officially adopt the [ASL meeting code of conduct](https://aslonline.org/wp-content/uploads/2023/03/ASL-Code-For-Meetings.pdf) for this meeting. 
-The designated trusted person is Egbert Rijke, who if need be can be contacted in person at the meeting, 
-or by email at e dot m dot hislastname at gmail dot com.
