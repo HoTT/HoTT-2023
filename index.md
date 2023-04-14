@@ -45,7 +45,7 @@ Women and members of minority groups are strongly encouraged to apply. ~~For
 information on how to apply see the [ASL
 page](https://aslonline.org/student-travel-awards/).~~ The deadline for applications has passed.
 
-**NEWS:** We are happy to announce a grant from the National Science Foundation 
+We are happy to announce a grant from the National Science Foundation 
 which will provide modest student travel awards to attend HoTT 2023. 
 Women and members of minority groups are strongly encouraged to apply. 
 Students and recently graduated postdocs can be supported, whether they submit a paper or not.
