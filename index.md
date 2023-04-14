@@ -56,6 +56,11 @@ Instructions on how to apply can be found [here](https://hott.github.io/HoTT-202
 [![Association for Symbolic Logic](images/asl-logo.png)](https://aslonline.org/) &nbsp;&nbsp;&nbsp;
 [![Dietrich College of Humanities and Social Sciences](/images/cmu-dietrich-college-logo.jpg){: width="176"}](https://www.cmu.edu/dietrich/)
 
+#### Code of conduct
+
+As an ASL-sponsored conference, HoTT 2023 adopts the [ASL meeting code of conduct](https://aslonline.org/wp-content/uploads/2023/03/ASL-Code-For-Meetings.pdf). The designated trusted person is Egbert Rijke, who can be contacted in person at the meeting, 
+or by email at e dot m dot hislastname at gmail dot com.
+
 ##### Local Committee
 
 * [Mathieu Anel](http://mathieu.anel.free.fr/)
