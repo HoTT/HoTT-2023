@@ -18,10 +18,11 @@ registration, it is still possible to apply for reimbursement.
 ### Financial support
 
 Limited financial support is available through the NSF for students to cover
-registration, travel, and accommodation expenses. To apply please fill in [this
+registration, travel, and accommodation expenses. ~~To apply please fill in
+[this
 form](https://docs.google.com/forms/d/e/1FAIpQLSciFgKNEMhExLc7w2y6uazRUnfyAmd9OAo2L8MmifWiJjhE9Q/viewform),
 and additionally ask your supervisor to send a brief email supporting your
 application to
 [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com).
 Applications from underrepresented groups are especially encouraged. Recent
-graduates are also welcome to apply.
+graduates are also welcome to apply.~~ No further applications are being accepted.
