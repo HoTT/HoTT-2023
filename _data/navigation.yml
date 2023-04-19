@@ -36,9 +36,9 @@
 #   excerpt: Schedule of all events
 
 # Add back when participants list is available
-#- title: Participants
-#  url: /participants/
-#  excerpt: Participants
+- title: Participants
+  url: /participants/
+  excerpt: Participants
 
 # Add back when photos are available
 # - title: Photos
