@@ -16,7 +16,7 @@ Fredrik Bakke | Norwegian University of Science and Technology
 Cesar Bardomiano Martinez | University of Ottawa
 Alvaro Belmonte | Johns Hopkins University
 Julie Bergner | 
-David Berry | 
+David Berry | University of Cambridge
 Kian Cho | CMU
 Dan Christensen | University of Western Ontario
 Cipriano Cioffo | Università degli studi di Padova
@@ -24,6 +24,7 @@ Thierry Coquand | University of Gothenburg
 Keri D'Angelo | Cornell University
 Stefania Damato | 
 Tom de Jong | University of Nottingham
+Amartya Dubey | 
 Kaveh Eskandari Miandoab | Worcester Polytechnic Institute
 Jarl Flaten | University of Western Ontario
 Jonas Frey | Carnegie Mellon University
@@ -54,6 +55,7 @@ Michael Shulman | University of San Diego
 Daniel Souza | University of Ottawa
 Matteo Spadetto | University of Leeds
 Sam Speight | University of Oxford
+Andrew Swan | Carnegie Mellon University
 Elif Uskuplu | University of Southern California
 Florrie Verity | Australian National University
 Jonathan Weinberger | Johns Hopkins University
