@@ -17,6 +17,7 @@ Cesar Bardomiano Martinez | University of Ottawa
 Alvaro Belmonte | Johns Hopkins University
 Julie Bergner | 
 David Berry | University of Cambridge
+El Mehdi Cherradi | IRIF
 Kian Cho | CMU
 Dan Christensen | University of Western Ontario
 Cipriano Cioffo | Università degli studi di Padova
@@ -35,6 +36,8 @@ Calum Hughes | University of Manchester
 Dan Humphries | UCL
 Matthias Hutzler | Gothenburg University
 Tom Jack | 
+Bálint Kocsis | Radboud Universiteit
+Astra Kolomatskaia | Stony Brook University
 Pavel Kovalev | Indiana University Bloomington
 András Kovács | Eötvös Loránd University
 Greg Langmead | Carnegie Mellon University
