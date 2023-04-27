@@ -45,7 +45,7 @@ title: "Programme"
 - Perry Hart and Favonia, *Colimits in the category of pointed types*
 - Robert Rose, Matthew Weaver and Daniel Licata, *Deciding the cofibration logic of cartesian cubical type theories*
 - Errol Yuksel, *On the logic of sets in the simplicial model*
-- David Wärn, *Unordered addition from biproducts*
+- David Wärn, *Path Spaces of Pushouts*
 - Felix Cherubini, Thierry Coquand and Matthias Hutzler, *A Foundation for Synthetic Algebraic Geometry*
 - Ingo Blechschmidt, Felix Cherubini and David Wärn, *Čech Cohomology in Homotopy Type Theory*
 - Samuel Lavenir, *Hilton-Milnor's theorem in higher categories*
