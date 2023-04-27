@@ -8,7 +8,7 @@ title: "Programme"
 - Julie Bergner, *Discreteness and completeness conditions for $(\infty,n)$-categories*
 - Thierry Coquand, *A  type theoretic model of synthetic algebraic geometry*
 - András Kovács, *Efficient Evaluation for Cubical Type Theories*
-- Anders Mörtberg, tba
+- Anders Mörtberg, *Computational Synthetic Homotopy Theory*
 
 ### Vladimir Voevodsky Memorial Lecture
 
