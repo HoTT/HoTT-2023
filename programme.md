@@ -12,7 +12,7 @@ title: "Programme"
 
 ### Vladimir Voevodsky Memorial Lecture
 
-- Michael Shulman, tba
+- Michael Shulman, *The unifying power of modal type theory*
 
 ### Contributed talks
 
