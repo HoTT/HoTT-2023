@@ -32,6 +32,7 @@ Jarl Flaten | University of Western Ontario
 Jonas Frey | Carnegie Mellon University
 Harrison Grodin | Carnegie Mellon University
 Robert Harper | Carnegie Mellon University
+Perry Hart | 
 Kuen-Bang Hou (Favonia) | University of Minnesota
 Calum Hughes | University of Manchester
 Dan Humphries | UCL
@@ -65,6 +66,7 @@ Sam Speight | University of Oxford
 Andrew Swan | Carnegie Mellon University
 Elif Uskuplu | University of Southern California
 Florrie Verity | Australian National University
+Zhuyang Wang | 
 Jonathan Weinberger | Johns Hopkins University
 David Wärn | University of Gothenburg
 Errol Yuksel | Stockholm University
