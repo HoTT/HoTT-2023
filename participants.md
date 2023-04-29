@@ -31,6 +31,7 @@ Kaveh Eskandari Miandoab | Worcester Polytechnic Institute
 Jarl Flaten | University of Western Ontario
 Jonas Frey | Carnegie Mellon University
 Harrison Grodin | Carnegie Mellon University
+Chris Grossack | UC Riverside
 Robert Harper | Carnegie Mellon University
 Perry Hart | 
 Kuen-Bang Hou (Favonia) | University of Minnesota
@@ -44,6 +45,7 @@ Bálint Kocsis | Radboud Universiteit
 Astra Kolomatskaia | Stony Brook University
 Pavel Kovalev | Indiana University Bloomington
 András Kovács | Eötvös Loránd University
+Arseniy Kryazhev | 
 Greg Langmead | Carnegie Mellon University
 Fernando Larrain | Carnegie Mellon University
 Chaitanya Leena Subramaniam | University of San Diego
