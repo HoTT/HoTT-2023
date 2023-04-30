@@ -19,6 +19,7 @@ Julie Bergner |
 David Berry | University of Cambridge
 Evan Cavallo | Carnegie Mellon University
 El Mehdi Cherradi | IRIF
+Felix Cherubini | University of Gothenburg
 Kian Cho | CMU
 Dan Christensen | University of Western Ontario
 Cipriano Cioffo | Università degli studi di Padova
@@ -36,6 +37,7 @@ Harrison Grodin | Carnegie Mellon University
 Chris Grossack | UC Riverside
 Robert Harper | Carnegie Mellon University
 Perry Hart | 
+Ivo Herzog | The Ohio State University at Lima
 Kuen-Bang Hou (Favonia) | University of Minnesota
 Calum Hughes | University of Manchester
 Dan Humphries | UCL
@@ -58,11 +60,13 @@ David Martínez Carpena | University of Barcelona
 Oualid Merzouga | University of Pennsylvania
 Owen Milner | Carnegie Mellon University
 Reed Mullanix | University of Minnesota
+David Jaz Myers | CQTS at NYU-AD
 Anders Mörtberg | Stockholm University
 Jacob Neumann | University of Nottingham
 Stiéphen Pradal | University of Nottingham
 Ian Ray | 
 Emily Riehl | Johns Hopkins University
+Robert Rose | Wesleyan University
 Gabriel Saadia | Stockholm University
 Michael Shulman | University of San Diego
 Daniel Souza | University of Ottawa
