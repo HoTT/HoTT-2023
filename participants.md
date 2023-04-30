@@ -17,6 +17,7 @@ Cesar Bardomiano Martinez | University of Ottawa
 Alvaro Belmonte | Johns Hopkins University
 Julie Bergner | 
 David Berry | University of Cambridge
+Evan Cavallo | Carnegie Mellon University
 El Mehdi Cherradi | IRIF
 Kian Cho | CMU
 Dan Christensen | University of Western Ontario
@@ -30,6 +31,7 @@ Amartya Dubey |
 Kaveh Eskandari Miandoab | Worcester Polytechnic Institute
 Jarl Flaten | University of Western Ontario
 Jonas Frey | Carnegie Mellon University
+Daniel Gratzer | Aarhus University
 Harrison Grodin | Carnegie Mellon University
 Chris Grossack | UC Riverside
 Robert Harper | Carnegie Mellon University
@@ -55,6 +57,7 @@ Louis Martini | Norwegian University of Science and Technology
 David Martínez Carpena | University of Barcelona
 Oualid Merzouga | University of Pennsylvania
 Owen Milner | Carnegie Mellon University
+Reed Mullanix | University of Minnesota
 Anders Mörtberg | Stockholm University
 Jacob Neumann | University of Nottingham
 Stiéphen Pradal | University of Nottingham
