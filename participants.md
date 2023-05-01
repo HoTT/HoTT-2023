@@ -39,6 +39,7 @@ Robert Harper | Carnegie Mellon University
 Perry Hart | 
 Ivo Herzog | The Ohio State University at Lima
 Kuen-Bang Hou (Favonia) | University of Minnesota
+Joseph Hua | CMU
 Calum Hughes | University of Manchester
 Dan Humphries | UCL
 Matthias Hutzler | Gothenburg University
@@ -54,6 +55,7 @@ Greg Langmead | Carnegie Mellon University
 Fernando Larrain | Carnegie Mellon University
 Chaitanya Leena Subramaniam | University of San Diego
 Yu Liu | Harvard University
+Axel Ljungström | Stockholm University
 Thomas Long | California State University San Marcos
 Louis Martini | Norwegian University of Science and Technology
 David Martínez Carpena | University of Barcelona
@@ -66,6 +68,7 @@ Jacob Neumann | University of Nottingham
 Stiéphen Pradal | University of Nottingham
 Ian Ray | 
 Emily Riehl | Johns Hopkins University
+Egbert Rijke | University of Ljubljana
 Robert Rose | Wesleyan University
 Gabriel Saadia | Stockholm University
 Michael Shulman | University of San Diego
@@ -76,6 +79,7 @@ Andrew Swan | Carnegie Mellon University
 Elif Uskuplu | University of Southern California
 Florrie Verity | Australian National University
 Zhuyang Wang | 
+Matthew Weaver | Princeton University
 Jonathan Weinberger | Johns Hopkins University
 David Wärn | University of Gothenburg
 Errol Yuksel | Stockholm University
