@@ -14,6 +14,7 @@ Steve Awodey | CMU
 Raymond Baker | University of Colorado Boulder
 Fredrik Bakke | Norwegian University of Science and Technology
 Cesar Bardomiano Martinez | University of Ottawa
+Alec Barreto | Swarthmore College
 Alvaro Belmonte | Johns Hopkins University
 Julie Bergner | 
 David Berry | University of Cambridge
@@ -25,6 +26,7 @@ Dan Christensen | University of Western Ontario
 Cipriano Cioffo | Università degli studi di Padova
 Thierry Coquand | University of Gothenburg
 Keri D'Angelo | Cornell University
+Frank Dai | 
 Stefania Damato | 
 Tom de Jong | University of Nottingham
 Christopher Dean | Dalhousie University
@@ -56,6 +58,7 @@ Fernando Larrain | Carnegie Mellon University
 Chaitanya Leena Subramaniam | University of San Diego
 Yu Liu | Harvard University
 Axel Ljungström | Stockholm University
+Ben Logsdon | Dartmouth College
 Thomas Long | California State University San Marcos
 Louis Martini | Norwegian University of Science and Technology
 David Martínez Carpena | University of Barcelona
@@ -69,8 +72,10 @@ Stiéphen Pradal | University of Nottingham
 Ian Ray | 
 Emily Riehl | Johns Hopkins University
 Egbert Rijke | University of Ljubljana
+Mitchell Riley | CQTS at NYU-AD
 Robert Rose | Wesleyan University
 Gabriel Saadia | Stockholm University
+Benjamin Salman | University of Chicago
 Michael Shulman | University of San Diego
 Daniel Souza | University of Ottawa
 Matteo Spadetto | University of Leeds
