@@ -18,6 +18,7 @@ Alec Barreto | Swarthmore College
 Alvaro Belmonte | Johns Hopkins University
 Julie Bergner | 
 David Berry | University of Cambridge
+Timothy Campion | Johns Hopkins University
 Evan Cavallo | Carnegie Mellon University
 El Mehdi Cherradi | IRIF
 Felix Cherubini | University of Gothenburg
@@ -34,6 +35,7 @@ Amartya Dubey |
 Kaveh Eskandari Miandoab | Worcester Polytechnic Institute
 Jarl Flaten | University of Western Ontario
 Jonas Frey | Carnegie Mellon University
+Julian Gould | 
 Daniel Gratzer | Aarhus University
 Harrison Grodin | Carnegie Mellon University
 Chris Grossack | UC Riverside
@@ -56,6 +58,7 @@ Arseniy Kryazhev |
 Greg Langmead | Carnegie Mellon University
 Fernando Larrain | Carnegie Mellon University
 Chaitanya Leena Subramaniam | University of San Diego
+Dan Licata | Wesleyan University
 Yu Liu | Harvard University
 Axel Ljungström | Stockholm University
 Ben Logsdon | Dartmouth College
@@ -68,6 +71,7 @@ Reed Mullanix | University of Minnesota
 David Jaz Myers | CQTS at NYU-AD
 Anders Mörtberg | Stockholm University
 Jacob Neumann | University of Nottingham
+Yue Niu | Carnegie Mellon University
 Stiéphen Pradal | University of Nottingham
 Ian Ray | 
 Emily Riehl | Johns Hopkins University
