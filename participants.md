@@ -42,6 +42,7 @@ Chris Grossack | UC Riverside
 Robert Harper | Carnegie Mellon University
 Perry Hart | 
 Ivo Herzog | The Ohio State University at Lima
+Adam Hill | 
 Kuen-Bang Hou (Favonia) | University of Minnesota
 Joseph Hua | CMU
 Calum Hughes | University of Manchester
@@ -85,6 +86,7 @@ Daniel Souza | University of Ottawa
 Matteo Spadetto | University of Leeds
 Sam Speight | University of Oxford
 Andrew Swan | Carnegie Mellon University
+Frank Tsai | SUNY at Buffalo
 Elif Uskuplu | University of Southern California
 Florrie Verity | Australian National University
 Zhuyang Wang | 
