@@ -35,7 +35,7 @@ title: "Programme"
 - **Perry Hart** and  Favonia, [*Colimits in the category of pointed types*](/abstracts/HoTT-2023_abstract_37.pdf)
 - **Ivo Herzog**, [*Goursat Homology*](/abstracts/HoTT-2023_abstract_44.pdf)
 - Felix Cherubini, Thierry Coquand and **Matthias Hutzler**, [*A Foundation for Synthetic Algebraic Geometry*](/abstracts/HoTT-2023_abstract_41.pdf)
-- **Tom Jack**, [$pi4S3 ~/= 1$ *and another Brunerie number in CCHM*](/abstracts/HoTT-2023_abstract_21.pdf)
+- **Tom Jack**, [$\pi_4S^3 ~/= 1$ *and another Brunerie number in CCHM*](/abstracts/HoTT-2023_abstract_21.pdf)
 - **Samuel Lavenir**, [*Hilton-Milnor's theorem in higher categories*](/abstracts/HoTT-2023_abstract_43.pdf)
 - **Chaitanya Leena Subramaniam** and Michael Shulman, [*The FOLDS theory associated to a contextual category*](/abstracts/HoTT-2023_abstract_46.pdf)
 - **Daniel R. Licata** and Matthew Weaver, [*Theory and Implementation of Bicubical Directed Type Theory*](/abstracts/HoTT-2023_abstract_47.pdf)
