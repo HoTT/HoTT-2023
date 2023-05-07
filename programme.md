@@ -5,7 +5,7 @@ title: "Programme"
 ---
 
 ### Invited talks
-- Julie Bergner, [*Discreteness and completeness conditions for $(\infty,n)$-categories*](/abstracts/HoTT-2023_abstract_11.pdf)
+- Julie Bergner, [*Discreteness and completeness conditions for* $(\infty,n)$-*categories*](/abstracts/HoTT-2023_abstract_11.pdf)
 - Thierry Coquand, [*A  type theoretic model of synthetic algebraic geometry*](/abstracts/HoTT-2023_abstract_12.pdf)
 - András Kovács, [*Efficient Evaluation for Cubical Type Theories*](/abstracts/HoTT-2023_abstract_23.pdf)
 - Anders Mörtberg, [*Computational Synthetic Homotopy Theory*](/abstracts/hott-2023-mortberg.pdf)
@@ -35,7 +35,7 @@ title: "Programme"
 - **Perry Hart** and  Favonia, [*Colimits in the category of pointed types*](/abstracts/HoTT-2023_abstract_37.pdf)
 - **Ivo Herzog**, [*Goursat Homology*](/abstracts/HoTT-2023_abstract_44.pdf)
 - Felix Cherubini, Thierry Coquand and **Matthias Hutzler**, [*A Foundation for Synthetic Algebraic Geometry*](/abstracts/HoTT-2023_abstract_41.pdf)
-- **Tom Jack**, [*pi4S3 ~/= 1 and another Brunerie number in CCHM*](/abstracts/HoTT-2023_abstract_21.pdf)
+- **Tom Jack**, [$pi4S3 ~/= 1$ *and another Brunerie number in CCHM*](/abstracts/HoTT-2023_abstract_21.pdf)
 - **Samuel Lavenir**, [*Hilton-Milnor's theorem in higher categories*](/abstracts/HoTT-2023_abstract_43.pdf)
 - **Chaitanya Leena Subramaniam** and Michael Shulman, [*The FOLDS theory associated to a contextual category*](/abstracts/HoTT-2023_abstract_46.pdf)
 - **Daniel R. Licata** and Matthew Weaver, [*Theory and Implementation of Bicubical Directed Type Theory*](/abstracts/HoTT-2023_abstract_47.pdf)
