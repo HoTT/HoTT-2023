@@ -39,7 +39,7 @@ title: "Programme"
 - **Samuel Lavenir**, [*Hilton-Milnor's theorem in higher categories*](/abstracts/HoTT-2023_abstract_43.pdf)
 - **Chaitanya Leena Subramaniam** and Michael Shulman, [*The FOLDS theory associated to a contextual category*](/abstracts/HoTT-2023_abstract_46.pdf)
 - **Daniel R. Licata** and Matthew Weaver, [*Theory and Implementation of Bicubical Directed Type Theory*](/abstracts/HoTT-2023_abstract_47.pdf)
-- **Axel Ljungström**, [*Symmetric Monoidal Smash Products in HoTT*](/abstracts/HoTT-2023_abstract_25.pdf) $\star$*Best student paper award winner*$\star$
+- **Axel Ljungström**, [*Symmetric Monoidal Smash Products in HoTT*](/abstracts/HoTT-2023_abstract_25.pdf) $\star\star\star$*Best student paper award winner*$\star\star\star$
 - **Louis Martini** and Sebastian Wolf, [*Internal higher topos theory*](/abstracts/HoTT-2023_abstract_17.pdf)
 - **David Jaz Myers**, [*Orbifolds in Synthetic Differential Cohesive HoTT*](/abstracts/HoTT-2023_abstract_7.pdf)
 - Thorsten Altenkirch and **Jacob Neumann**, [*Presheaf Models of Polarized Higher-Order Abstract Syntax*](/abstracts/HoTT-2023_abstract_36.pdf)
