@@ -18,6 +18,7 @@ Alec Barreto | Swarthmore College
 Alvaro Belmonte | Johns Hopkins University
 Julie Bergner | 
 David Berry | University of Cambridge
+Jonathan Campbell | Center for Communications Research, La Jolla
 Timothy Campion | Johns Hopkins University
 Evan Cavallo | Carnegie Mellon University
 El Mehdi Cherradi | IRIF
@@ -58,6 +59,7 @@ András Kovács | Eötvös Loránd University
 Arseniy Kryazhev | 
 Greg Langmead | Carnegie Mellon University
 Fernando Larrain | Carnegie Mellon University
+Samuel Lavenir | 
 Chaitanya Leena Subramaniam | University of San Diego
 Dan Licata | Wesleyan University
 Yu Liu | Harvard University
