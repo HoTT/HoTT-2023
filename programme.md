@@ -72,6 +72,5 @@ title: "Programme"
 - <a name="speight"/>**Samuel Speight**, [*Groupoidal Realizability Over an Untyped Cubical Lambda-Calculus*](/abstracts/HoTT-2023_abstract_24.pdf)
 - <a name="swan"/>**Andrew Swan**, [*Oracle modalities*](/abstracts/HoTT-2023_abstract_35.pdf)
 - <a name="uskuplu"/>**Elif Uskuplu**, [*Cofibrancy of The Exo-type of  Natural Numbers*](/abstracts/HoTT-2023_abstract_26.pdf)
-- <a name="warn"/>**David Wärn**, [*Path Spaces of Pushouts*](/abstracts/Warn2.pdf)
 - <a name="weinberger"/>**Jonathan Weinberger**, [*Internal sums for synthetic fibered (∞,1)-categories*](/abstracts/HoTT-2023_abstract_14.pdf)
 - <a name="yuksel"/>**Errol Yuksel**, [*On the logic of sets in the simplicial model*](/abstracts/HoTT-2023_abstract_39.pdf)
