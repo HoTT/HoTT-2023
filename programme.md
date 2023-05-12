@@ -31,7 +31,7 @@ title: "Programme"
 - <a name="bergner"/>**Julie Bergner**, [*Discreteness and completeness conditions for (∞,n)-categories*](/abstracts/HoTT-2023_abstract_11.pdf)
 - <a name="coquand"/>**Thierry Coquand**, [*A  type theoretic model of synthetic algebraic geometry*](/abstracts/HoTT-2023_abstract_12.pdf)
 - <a name="kovacs"/>**András Kovács**, [*Efficient Evaluation for Cubical Type Theories*](/abstracts/HoTT-2023_abstract_23.pdf)
-- <a name="mortberg"/>**Anders Mörtberg**, [*Computational Synthetic Homotopy Theory*](/abstracts/Mortberg.pdf)
+- <a name="mortberg"/>**Anders Mörtberg**, [*Computational Synthetic Homotopy Theory*](/abstracts/hott-2023-mortberg.pdf)
 
 ### Vladimir Voevodsky memorial lecture
 - <a name="shulman"/>**Michael Shulman**, [*The unifying power of modal type theory*](/abstracts/Shulman.pdf)
