@@ -8,6 +8,12 @@ title: "Travel & local information"
 
 The conference will take place in **Porter Hall 100** on CMU's campus.
 
+### Conference map
+
+A map for the conference is below, or [click here](https://www.google.com/maps/d/u/0/edit?mid=1CKk3H9ernqv9k9jTbWuNtDXwSiK8wJA&usp=sharing) to open in google maps.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1CKk3H9ernqv9k9jTbWuNtDXwSiK8wJA&ehbc=2E312F" style="width:100%; aspect-ratio:4/3"></iframe>
+
 ### Travel from the Airport
 
 The cheapest way to get to Pittsburgh from the airport is the [28X bus
