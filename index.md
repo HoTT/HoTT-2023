@@ -24,7 +24,7 @@ There will also be a special **Vladimir Voevodsky Memorial Lecture** given by
 
 * [Michael Shulman](https://home.sandiego.edu/~shulman/) (University of San Diego, USA)
 
-##### Scientific Committee
+#### Scientific Committee
 
 * [Thorsten Altenkirch](https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch) (University of Nottingham, UK)
 * [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon 
@@ -37,7 +37,7 @@ University, USA)
 * [Maria Emilia Maietti](https://www.math.unipd.it/~maietti/) (University of Padova, Italy)
 * [Emily Riehl](https://emilyriehl.github.io/) (Johns Hopkins University, USA)
 
-##### Sponsorship
+#### Sponsorship
 
 HoTT 2023 is an official ASL-sponsored meeting. The Association for Symbolic
 Logic offers modest student travel awards to attend ASL-Sponsored meetings.
@@ -72,6 +72,10 @@ or by email at e dot m dot hislastname at gmail dot com.
 * [Andrew Swan](https://awswan.github.io/)
 
 The meeting is being hosted by the [HoTT group at CMU](https://www.cmu.edu/dietrich/philosophy/hott/).
+
+#### Poster
+
+[![Conference poster](/images/HoTT2023poster-lowres.jpg){: width="500"}](images/HoTT2023poster.pdf)
 
 <small> Contact: [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com).
 </small>
