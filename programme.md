@@ -21,12 +21,13 @@ title: "Programme"
 <tr><th>16:00 - 16:30</th><td><div class="tooltip"><a href="#swan">Swan</a><span class="tooltiptext">Oracle modalities</span></div></td><td><div class="tooltip"><a href="#gratzer">Gratzer</a><span class="tooltiptext">Controlling unfolding in type theory using extension types</span></div></td><td rowspan="2"><div class="tooltip"><a href="#shulman">Shulman</a><sup>†</sup><span class="tooltiptext">The unifying power of modal type theory</span></div></td><td><div class="tooltip"><a href="#jack">Jack</a><span class="tooltiptext">π₄𝕊³ ≇ 1 and another Brunerie number in CCHM</span></div></td></tr>
 <tr><th>16:30 - 17:00</th><td><div class="tooltip"><a href="#speight">Speight</a><span class="tooltiptext">Groupoidal Realizability Over an Untyped Cubical Lambda-Calculus</span></div></td><td><div class="tooltip"><a href="#berry">Berry</a><span class="tooltiptext">Formalization     Computation: Categorical Normalization by Evaluation</span></div></td><td><div class="tooltip"><a href="#baker">Baker</a><span class="tooltiptext">Eckmann-Hilton and the Hopf Fibration in Homotopy Type Theory</span></div></td></tr>
 <tr><th>17:00 - 17:30</th><td><div class="tooltip"><a href="#dejong2">De Jong</a><span class="tooltiptext">Relating ordinals in set theory to ordinals in type theory</span></div></td><td><div class="tooltip"><a href="#rijke">Rijke</a><span class="tooltiptext">The agda-unimath library</span></div></td><td/><td><div class="tooltip"><a href="#herzog">Herzog</a><span class="tooltiptext">Goursat Homology</span></div></td></tr>
-<tr><th>17:30 - 18:00</th><td/><td/><td rowspan="2">Reception</td><td/></tr>
-<tr><th>18:00 -</th><td>BBQ</td><td/><td/></tr>
+<tr><th>17:30 - 18:00</th><td/><td/><td rowspan="2"><a href='#social'> Reception</a></td><td/></tr>
+<tr><th>18:00 -</th><td><a href='#social'>BBQ</a></td><td/><td/></tr>
 </table>
 * <a name="vvmemorial"><sup>†</sup></a> Vladimir Voevodsky Memorial Lecture
 * <a name="beststudentpaper"><sup>*</sup></a> Recipient of Best Student Paper Award
 * <span style='background-color:thistle'>Special session in honor of André Joyal's contributions to HoTT on his 80th birthday</span>
+
 ### Invited talks
 - <a name="bergner"/>**Julie Bergner**, [*Discreteness and completeness conditions for (∞,n)-categories*](/abstracts/HoTT-2023_abstract_11.pdf)
 - <a name="coquand"/>**Thierry Coquand**, [*A  type theoretic model of synthetic algebraic geometry*](/abstracts/HoTT-2023_abstract_12.pdf)
@@ -74,3 +75,7 @@ title: "Programme"
 - <a name="weaver"/>Daniel R. Licata and **Matthew Weaver**, [*Theory and Implementation of Bicubical Directed Type Theory*](/abstracts/HoTT-2023_abstract_47.pdf)
 - <a name="weinberger"/>**Jonathan Weinberger**, [*Internal sums for synthetic fibered (∞,1)-categories*](/abstracts/HoTT-2023_abstract_14.pdf)
 - <a name="yuksel"/>**Errol Yuksel**, [*On the logic of sets in the simplicial model*](/abstracts/HoTT-2023_abstract_39.pdf)
+
+### Social events {#social}
+- On Monday at 18:00 there will be a barbecue at the [Vietnam Veterans Pavillion](https://goo.gl/maps/nYGCWJdbKBkk6KUT7) in Schenley Park.
+- We will hold a reception at the [Schenley Visitor Center](https://pittsburghparks.org/park-projects/schenley-park-cafe-and-visitor-center/) on Wednesday at 17:30.
