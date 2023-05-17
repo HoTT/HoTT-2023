@@ -55,3 +55,7 @@ for a room with one king size bed, and **$149** per night for a room with two
 queen size beds (suitable for sharing). Booking at these special rates is
 accessible via [this
 link](https://www.hyatt.com/en-US/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp?corp_id=G-CMUL).
+
+### Dining options
+
+The CMU website has a full list of [on campus dining locations](https://apps.studentaffairs.cmu.edu/dining/conceptinfo/?page=listConcepts) including opening times. There are also restaurants and cafés near to CMU campus in Oakland, including several on [Craig Street](https://goo.gl/maps/MBCsVWx9xeTkqwAz5).
