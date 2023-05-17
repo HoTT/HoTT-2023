@@ -6,7 +6,7 @@ title: 'Participants'
 
 Name | Affiliation
 ---|---
-Anthony Agwu | 
+Anthony Agwu | Johns Hopkins University
 Antoine Allioux | Institut de Recherche en Info Théor
 Mathieu Anel | CMU
 Carlo Angiuli | Carnegie Mellon University
@@ -15,7 +15,7 @@ Raymond Baker | University of Colorado Boulder
 Fredrik Bakke | Norwegian Univ of Sci and Tech
 Cesar Bardomiano Martinez | University of Ottawa
 Alvaro Belmonte | Johns Hopkins University
-Julie Bergner | 
+Julie Bergner | University of Virginia
 David Berry | University of Cambridge
 Jonathan Campbell | Center for Communications Research, La Jolla
 Tim Campion | Johns Hopkins University
@@ -47,12 +47,11 @@ Calum Hughes | University of Manchester
 Matthias Hutzler | Gothenburg University
 Tom Jack | 
 Stefanos Jones | University of Chicago
-Andre Joyal | 
+Andre Joyal | Université du Québec à Montréal
 Bálint Kocsis | Radboud Universiteit
 Astra Kolomatskaia | Stony Brook University
 Pavel Kovalev | Indiana U Bloomington
 András Kovács | Eötvös Loránd University
-Arseniy Kryazhev | 
 Greg Langmead | Carnegie Mellon University
 Fernando Larrain | Carnegie Mellon University
 Samuel Lavenir | EPFL
