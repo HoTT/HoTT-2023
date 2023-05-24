@@ -74,6 +74,7 @@ title: "Programme"
 - <a name="weaver"/>Daniel R. Licata and **Matthew Weaver**, [*Theory and Implementation of Bicubical Directed Type Theory*](/abstracts/HoTT-2023_abstract_47.pdf)
 - <a name="weinberger"/>**Jonathan Weinberger**, [*Internal sums for synthetic fibered (∞,1)-categories*](/abstracts/HoTT-2023_abstract_14.pdf)
 - <a name="yuksel"/>**Errol Yuksel**, [*On the logic of sets in the simplicial model*](/abstracts/HoTT-2023_abstract_39.pdf)
+
 ### Social events {#social}
 - On Monday at 18:00 there will be a barbecue at the [Vietnam Veterans Pavillion](https://goo.gl/maps/nYGCWJdbKBkk6KUT7) in Schenley Park.
 - We will hold a reception at the [Schenley Visitor Center](https://pittsburghparks.org/park-projects/schenley-park-cafe-and-visitor-center/) on Wednesday at 17:30.
