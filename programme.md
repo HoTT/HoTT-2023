@@ -27,9 +27,10 @@ title: "Programme"
 * <a name="vvmemorial"><sup>†</sup></a> Vladimir Voevodsky Memorial Lecture
 * <a name="beststudentpaper"><sup>*</sup></a> Recipient of Best Student Paper Award
 * <span style='background-color:thistle'>Special session in honor of André Joyal's contributions to HoTT on his 80th birthday</span>
+
 ### Invited talks
 - <a name="bergner"/>**Julie Bergner**, [*Discreteness and completeness conditions for (∞,n)-categories*](/abstracts/HoTT-2023_abstract_11.pdf)
-- <a name="coquand"/>**Thierry Coquand**, [*A  type theoretic model of synthetic algebraic geometry*](/abstracts/HoTT-2023_abstract_12.pdf)
+- <a name="coquand"/>**Thierry Coquand**, [*A  type theoretic model of synthetic algebraic geometry*](/abstracts/HoTT-2023_abstract_12.pdf) [[slides](/slides/coquand.pdf)]
 - <a name="kovacs"/>**András Kovács**, [*Efficient Evaluation for Cubical Type Theories*](/abstracts/HoTT-2023_abstract_23.pdf)
 - <a name="mortberg"/>**Anders Mörtberg**, [*Computational Synthetic Homotopy Theory*](/abstracts/hott-2023-mortberg.pdf)
 
@@ -39,41 +40,40 @@ title: "Programme"
 ### Contributed talks
 - <a name="allioux"/>**Antoine Allioux**, [*Opetopic Methods in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_32.pdf)
 - <a name="anel"/>**Mathieu Anel** and Jonathan Weinberger, [*Dependent type theories and base change theorems*](/abstracts/HoTT-2023_abstract_15.pdf)
-- <a name="awodey"/>**Steve Awodey**, [*Algebraic type theory*](/abstracts/HoTT-2023_abstract_27.pdf)
+- <a name="awodey"/>**Steve Awodey**, [*Algebraic type theory*](/abstracts/HoTT-2023_abstract_27.pdf) [[slides](/slides/awodey.pdf)]
 - <a name="baker"/>**Raymond Baker**, [*Eckmann-Hilton and the Hopf Fibration in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_16.pdf)
 - <a name="berry"/>**David Berry** and Marcelo Fiore, [*Formalization     Computation: Categorical Normalization by Evaluation*](/abstracts/HoTT-2023_abstract_29.pdf)
 - <a name="cherradi"/>**El Mehdi Cherradi** and Nima Rasekh, [*Finite colimits in an elementary higher topos*](/abstracts/HoTT-2023_abstract_18.pdf)
-- <a name="cherubini"/>Ingo Blechschmidt, **Felix Cherubini** and David Wärn, [*Čech Cohomology in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_42.pdf)
+- <a name="cherubini"/>Ingo Blechschmidt, **Felix Cherubini** and David Wärn, [*Čech Cohomology in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_42.pdf) [[slides](/slides/cherubini.pdf)]
 - <a name="christensen"/>**J. Daniel Christensen** and Jarl G. Taxerås Flaten, [*Ext groups in homotopy type theory*](/abstracts/HoTT-2023_abstract_31.pdf)
-- <a name="cioffo"/>**Cipriano Junior Cioffo**, [*Biased elementary doctrines and quotient completions*](/abstracts/HoTT-2023_abstract_34.pdf)
+- <a name="cioffo"/>**Cipriano Junior Cioffo**, [*Biased elementary doctrines and quotient completions*](/abstracts/HoTT-2023_abstract_34.pdf) [[slides](/slides/cioffo.pdf)]
 - <a name="damato"/>Thorsten Altenkirch and **Stefania Damato**, [*Specifying QIITs using Containers*](/abstracts/HoTT-2023_abstract_28.pdf)
 - <a name="dean"/>**Christopher Dean**, [*Directed Types are Weak ω-Categories*](/abstracts/HoTT-2023_abstract_45.pdf)
 - <a name="dejong1"/>Ulrik Buchholtz, **Tom de Jong** and Egbert Rijke, [*On epimorphisms and acyclic types in HoTT*](/abstracts/HoTT-2023_abstract_9.pdf)
-- <a name="dejong2"/>**Tom de Jong**, Nicolai Kraus, Fredrik Nordvall Forsberg and Chuangjie Xu, [*Relating ordinals in set theory to ordinals in type theory*](/abstracts/HoTT-2023_abstract_13.pdf)
+- <a name="dejong2"/>**Tom de Jong**, Nicolai Kraus, Fredrik Nordvall Forsberg and Chuangjie Xu, [*Relating ordinals in set theory to ordinals in type theory*](/abstracts/HoTT-2023_abstract_13.pdf) [[slides](/slides/dejong2.pdf)]
 - <a name="flaten"/>**Jarl G. Taxeraas Flaten**, Dan Christensen, Ulrik Buchholtz and Egbert Rijke, [*Central H-spaces and banded types*](/abstracts/HoTT-2023_abstract_33.pdf)
 - <a name="frey"/>**Jonas Frey**, [*Duality for Clans and the Fat Small Object Argument*](/abstracts/HoTT-2023_abstract_30.pdf)
 - <a name="gratzer"/>**Daniel Gratzer**, Jonathan Sterling, Carlo Angiuli, Thierry Coquand and Lars Birkedal, [*Controlling unfolding in type theory using extension types*](/abstracts/HoTT-2023_abstract_19.pdf)
 - <a name="hart"/>**Perry Hart** and  Favonia, [*Colimits in the category of pointed types*](/abstracts/HoTT-2023_abstract_37.pdf)
 - <a name="herzog"/>**Ivo Herzog**, [*Goursat Homology*](/abstracts/HoTT-2023_abstract_44.pdf)
-- <a name="hutzler"/>Felix Cherubini, Thierry Coquand and **Matthias Hutzler**, [*A Foundation for Synthetic Algebraic Geometry*](/abstracts/HoTT-2023_abstract_41.pdf)
+- <a name="hutzler"/>Felix Cherubini, Thierry Coquand and **Matthias Hutzler**, [*A Foundation for Synthetic Algebraic Geometry*](/abstracts/HoTT-2023_abstract_41.pdf) [[slides](/slides/hutzler.pdf)]
 - <a name="jack"/>**Tom Jack**, [*π₄𝕊³ ≇ 1 and another Brunerie number in CCHM*](/abstracts/HoTT-2023_abstract_21.pdf)
 - <a name="lavenir"/>**Samuel Lavenir**, [*Hilton-Milnor's theorem in higher categories*](/abstracts/HoTT-2023_abstract_43.pdf)
-- <a name="leenasubramaniam"/>**Chaitanya Leena Subramaniam** and Michael Shulman, [*The FOLDS theory associated to a contextual category*](/abstracts/HoTT-2023_abstract_46.pdf)
+- <a name="leenasubramaniam"/>**Chaitanya Leena Subramaniam** and Michael Shulman, [*The FOLDS theory associated to a contextual category*](/abstracts/HoTT-2023_abstract_46.pdf) [[slides](/slides/leenasubramaniam.pdf)]
 - <a name="ljungstrom"/>**Axel Ljungström**, [*Symmetric Monoidal Smash Products in HoTT*](/abstracts/HoTT-2023_abstract_25.pdf) \*\*\****Best student paper award winner***\*\*\*
 - <a name="martini"/>**Louis Martini** and Sebastian Wolf, [*Internal higher topos theory*](/abstracts/HoTT-2023_abstract_17.pdf)
 - <a name="myers"/>**David Jaz Myers**, [*Orbifolds in Synthetic Differential Cohesive HoTT*](/abstracts/HoTT-2023_abstract_7.pdf)
 - <a name="neumann"/>Thorsten Altenkirch and **Jacob Neumann**, [*Presheaf Models of Polarized Higher-Order Abstract Syntax*](/abstracts/HoTT-2023_abstract_36.pdf)
 - <a name="rijke"/>**Egbert Rijke**, [*The agda-unimath library*](/abstracts/HoTT-2023_abstract_10.pdf)
-- <a name="riley"/>David Jaz Myers and **Mitchell Riley**, [*Commuting Cohesions*](/abstracts/HoTT-2023_abstract_8.pdf)
+- <a name="riley"/>David Jaz Myers and **Mitchell Riley**, [*Commuting Cohesions*](/abstracts/HoTT-2023_abstract_8.pdf) [[slides](/slides/riley.pdf)]
 - <a name="rose"/>**Robert Rose**, Matthew Weaver and Daniel Licata, [*Deciding the cofibration logic of cartesian cubical type theories*](/abstracts/HoTT-2023_abstract_38.pdf)
 - <a name="spadetto"/>**Matteo Spadetto**, [*Propositional dependent type theories: a conservativity result for homotopy elementary types*](/abstracts/HoTT-2023_abstract_48.pdf)
-- <a name="speight"/>**Samuel Speight**, [*Groupoidal Realizability Over an Untyped Cubical Lambda-Calculus*](/abstracts/HoTT-2023_abstract_24.pdf)
-- <a name="swan"/>**Andrew Swan**, [*Oracle modalities*](/abstracts/HoTT-2023_abstract_35.pdf)
+- <a name="speight"/>**Samuel Speight**, [*Groupoidal Realizability Over an Untyped Cubical Lambda-Calculus*](/abstracts/HoTT-2023_abstract_24.pdf) [[slides](/slides/speight.pdf)]
+- <a name="swan"/>**Andrew Swan**, [*Oracle modalities*](/abstracts/HoTT-2023_abstract_35.pdf) [[slides](/slides/swan.pdf)]
 - <a name="uskuplu"/>**Elif Uskuplu**, [*Cofibrancy of The Exo-type of  Natural Numbers*](/abstracts/HoTT-2023_abstract_26.pdf)
 - <a name="weaver"/>Daniel R. Licata and **Matthew Weaver**, [*Theory and Implementation of Bicubical Directed Type Theory*](/abstracts/HoTT-2023_abstract_47.pdf)
 - <a name="weinberger"/>**Jonathan Weinberger**, [*Internal sums for synthetic fibered (∞,1)-categories*](/abstracts/HoTT-2023_abstract_14.pdf)
 - <a name="yuksel"/>**Errol Yuksel**, [*On the logic of sets in the simplicial model*](/abstracts/HoTT-2023_abstract_39.pdf)
-
 ### Social events {#social}
 - On Monday at 18:00 there will be a barbecue at the [Vietnam Veterans Pavillion](https://goo.gl/maps/nYGCWJdbKBkk6KUT7) in Schenley Park.
 - We will hold a reception at the [Schenley Visitor Center](https://pittsburghparks.org/park-projects/schenley-park-cafe-and-visitor-center/) on Wednesday at 17:30.
