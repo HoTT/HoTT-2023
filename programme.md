@@ -31,7 +31,7 @@ title: "Programme"
 ### Invited talks
 - <a name="bergner"/>**Julie Bergner**, [*Discreteness and completeness conditions for (∞,n)-categories*](/abstracts/HoTT-2023_abstract_11.pdf)
 - <a name="coquand"/>**Thierry Coquand**, [*A  type theoretic model of synthetic algebraic geometry*](/abstracts/HoTT-2023_abstract_12.pdf) [[slides](/slides/coquand.pdf)]
-- <a name="kovacs"/>**András Kovács**, [*Efficient Evaluation for Cubical Type Theories*](/abstracts/HoTT-2023_abstract_23.pdf)
+- <a name="kovacs"/>**András Kovács**, [*Efficient Evaluation for Cubical Type Theories*](/abstracts/HoTT-2023_abstract_23.pdf) [[slides](/slides/kovacs.pdf)]
 - <a name="mortberg"/>**Anders Mörtberg**, [*Computational Synthetic Homotopy Theory*](/abstracts/hott-2023-mortberg.pdf)
 
 ### Vladimir Voevodsky memorial lecture
@@ -49,7 +49,7 @@ title: "Programme"
 - <a name="cioffo"/>**Cipriano Junior Cioffo**, [*Biased elementary doctrines and quotient completions*](/abstracts/HoTT-2023_abstract_34.pdf) [[slides](/slides/cioffo.pdf)]
 - <a name="damato"/>Thorsten Altenkirch and **Stefania Damato**, [*Specifying QIITs using Containers*](/abstracts/HoTT-2023_abstract_28.pdf)
 - <a name="dean"/>**Christopher Dean**, [*Directed Types are Weak ω-Categories*](/abstracts/HoTT-2023_abstract_45.pdf)
-- <a name="dejong1"/>Ulrik Buchholtz, **Tom de Jong** and Egbert Rijke, [*On epimorphisms and acyclic types in HoTT*](/abstracts/HoTT-2023_abstract_9.pdf)
+- <a name="dejong1"/>Ulrik Buchholtz, **Tom de Jong** and Egbert Rijke, [*On epimorphisms and acyclic types in HoTT*](/abstracts/HoTT-2023_abstract_9.pdf) [[slides](/slides/dejong1.pdf)]
 - <a name="dejong2"/>**Tom de Jong**, Nicolai Kraus, Fredrik Nordvall Forsberg and Chuangjie Xu, [*Relating ordinals in set theory to ordinals in type theory*](/abstracts/HoTT-2023_abstract_13.pdf) [[slides](/slides/dejong2.pdf)]
 - <a name="flaten"/>**Jarl G. Taxeraas Flaten**, Dan Christensen, Ulrik Buchholtz and Egbert Rijke, [*Central H-spaces and banded types*](/abstracts/HoTT-2023_abstract_33.pdf)
 - <a name="frey"/>**Jonas Frey**, [*Duality for Clans and the Fat Small Object Argument*](/abstracts/HoTT-2023_abstract_30.pdf) [[slides](/slides/frey.pdf)]
@@ -66,7 +66,7 @@ title: "Programme"
 - <a name="neumann"/>Thorsten Altenkirch and **Jacob Neumann**, [*Presheaf Models of Polarized Higher-Order Abstract Syntax*](/abstracts/HoTT-2023_abstract_36.pdf)
 - <a name="rijke"/>**Egbert Rijke**, [*The agda-unimath library*](/abstracts/HoTT-2023_abstract_10.pdf)
 - <a name="riley"/>David Jaz Myers and **Mitchell Riley**, [*Commuting Cohesions*](/abstracts/HoTT-2023_abstract_8.pdf) [[slides](/slides/riley.pdf)]
-- <a name="rose"/>**Robert Rose**, Matthew Weaver and Daniel Licata, [*Deciding the cofibration logic of cartesian cubical type theories*](/abstracts/HoTT-2023_abstract_38.pdf)
+- <a name="rose"/>**Robert Rose**, Matthew Weaver and Daniel Licata, [*Deciding the cofibration logic of cartesian cubical type theories*](/abstracts/HoTT-2023_abstract_38.pdf) [[slides](/slides/rose.pdf)]
 - <a name="spadetto"/>**Matteo Spadetto**, [*Propositional dependent type theories: a conservativity result for homotopy elementary types*](/abstracts/HoTT-2023_abstract_48.pdf)
 - <a name="speight"/>**Samuel Speight**, [*Groupoidal Realizability Over an Untyped Cubical Lambda-Calculus*](/abstracts/HoTT-2023_abstract_24.pdf) [[slides](/slides/speight.pdf)]
 - <a name="swan"/>**Andrew Swan**, [*Oracle modalities*](/abstracts/HoTT-2023_abstract_35.pdf) [[slides](/slides/swan.pdf)]
