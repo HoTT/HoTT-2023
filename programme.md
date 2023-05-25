@@ -35,14 +35,14 @@ title: "Programme"
 - <a name="mortberg"/>**Anders Mörtberg**, [*Computational Synthetic Homotopy Theory*](/abstracts/hott-2023-mortberg.pdf)
 
 ### Vladimir Voevodsky memorial lecture
-- <a name="shulman"/>**Michael Shulman**, [*The unifying power of modal type theory*](/abstracts/Shulman.pdf)
+- <a name="shulman"/>**Michael Shulman**, [*The unifying power of modal type theory*](/abstracts/Shulman.pdf) [[slides](/slides/shulman.pdf)]
 
 ### Contributed talks
 - <a name="allioux"/>**Antoine Allioux**, [*Opetopic Methods in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_32.pdf)
-- <a name="anel"/>**Mathieu Anel** and Jonathan Weinberger, [*Dependent type theories and base change theorems*](/abstracts/HoTT-2023_abstract_15.pdf)
+- <a name="anel"/>**Mathieu Anel** and Jonathan Weinberger, [*Dependent type theories and base change theorems*](/abstracts/HoTT-2023_abstract_15.pdf) [[slides](/slides/anel.pdf)]
 - <a name="awodey"/>**Steve Awodey**, [*Algebraic type theory*](/abstracts/HoTT-2023_abstract_27.pdf) [[slides](/slides/awodey.pdf)]
 - <a name="baker"/>**Raymond Baker**, [*Eckmann-Hilton and the Hopf Fibration in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_16.pdf)
-- <a name="berry"/>**David Berry** and Marcelo Fiore, [*Formalization     Computation: Categorical Normalization by Evaluation*](/abstracts/HoTT-2023_abstract_29.pdf)
+- <a name="berry"/>**David Berry** and Marcelo Fiore, [*Formalization     Computation: Categorical Normalization by Evaluation*](/abstracts/HoTT-2023_abstract_29.pdf) [[slides](/slides/berry.pdf)]
 - <a name="cherradi"/>**El Mehdi Cherradi** and Nima Rasekh, [*Finite colimits in an elementary higher topos*](/abstracts/HoTT-2023_abstract_18.pdf)
 - <a name="cherubini"/>Ingo Blechschmidt, **Felix Cherubini** and David Wärn, [*Čech Cohomology in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_42.pdf) [[slides](/slides/cherubini.pdf)]
 - <a name="christensen"/>**J. Daniel Christensen** and Jarl G. Taxerås Flaten, [*Ext groups in homotopy type theory*](/abstracts/HoTT-2023_abstract_31.pdf)
@@ -52,16 +52,16 @@ title: "Programme"
 - <a name="dejong1"/>Ulrik Buchholtz, **Tom de Jong** and Egbert Rijke, [*On epimorphisms and acyclic types in HoTT*](/abstracts/HoTT-2023_abstract_9.pdf)
 - <a name="dejong2"/>**Tom de Jong**, Nicolai Kraus, Fredrik Nordvall Forsberg and Chuangjie Xu, [*Relating ordinals in set theory to ordinals in type theory*](/abstracts/HoTT-2023_abstract_13.pdf) [[slides](/slides/dejong2.pdf)]
 - <a name="flaten"/>**Jarl G. Taxeraas Flaten**, Dan Christensen, Ulrik Buchholtz and Egbert Rijke, [*Central H-spaces and banded types*](/abstracts/HoTT-2023_abstract_33.pdf)
-- <a name="frey"/>**Jonas Frey**, [*Duality for Clans and the Fat Small Object Argument*](/abstracts/HoTT-2023_abstract_30.pdf)
-- <a name="gratzer"/>**Daniel Gratzer**, Jonathan Sterling, Carlo Angiuli, Thierry Coquand and Lars Birkedal, [*Controlling unfolding in type theory using extension types*](/abstracts/HoTT-2023_abstract_19.pdf)
-- <a name="hart"/>**Perry Hart** and  Favonia, [*Colimits in the category of pointed types*](/abstracts/HoTT-2023_abstract_37.pdf)
+- <a name="frey"/>**Jonas Frey**, [*Duality for Clans and the Fat Small Object Argument*](/abstracts/HoTT-2023_abstract_30.pdf) [[slides](/slides/frey.pdf)]
+- <a name="gratzer"/>**Daniel Gratzer**, Jonathan Sterling, Carlo Angiuli, Thierry Coquand and Lars Birkedal, [*Controlling unfolding in type theory using extension types*](/abstracts/HoTT-2023_abstract_19.pdf) [[slides](/slides/gratzer.pdf)]
+- <a name="hart"/>**Perry Hart** and  Favonia, [*Colimits in the category of pointed types*](/abstracts/HoTT-2023_abstract_37.pdf) [[slides](/slides/hart.pdf)]
 - <a name="herzog"/>**Ivo Herzog**, [*Goursat Homology*](/abstracts/HoTT-2023_abstract_44.pdf)
 - <a name="hutzler"/>Felix Cherubini, Thierry Coquand and **Matthias Hutzler**, [*A Foundation for Synthetic Algebraic Geometry*](/abstracts/HoTT-2023_abstract_41.pdf) [[slides](/slides/hutzler.pdf)]
 - <a name="jack"/>**Tom Jack**, [*π₄𝕊³ ≇ 1 and another Brunerie number in CCHM*](/abstracts/HoTT-2023_abstract_21.pdf)
 - <a name="lavenir"/>**Samuel Lavenir**, [*Hilton-Milnor's theorem in higher categories*](/abstracts/HoTT-2023_abstract_43.pdf)
 - <a name="leenasubramaniam"/>**Chaitanya Leena Subramaniam** and Michael Shulman, [*The FOLDS theory associated to a contextual category*](/abstracts/HoTT-2023_abstract_46.pdf) [[slides](/slides/leenasubramaniam.pdf)]
-- <a name="ljungstrom"/>**Axel Ljungström**, [*Symmetric Monoidal Smash Products in HoTT*](/abstracts/HoTT-2023_abstract_25.pdf) \*\*\****Best student paper award winner***\*\*\*
-- <a name="martini"/>**Louis Martini** and Sebastian Wolf, [*Internal higher topos theory*](/abstracts/HoTT-2023_abstract_17.pdf)
+- <a name="ljungstrom"/>**Axel Ljungström**, [*Symmetric Monoidal Smash Products in HoTT*](/abstracts/HoTT-2023_abstract_25.pdf) [[slides](/slides/ljungstrom.pdf)] \*\*\****Best student paper award winner***\*\*\*
+- <a name="martini"/>**Louis Martini** and Sebastian Wolf, [*Internal higher topos theory*](/abstracts/HoTT-2023_abstract_17.pdf) [[slides](/slides/martini.pdf)]
 - <a name="myers"/>**David Jaz Myers**, [*Orbifolds in Synthetic Differential Cohesive HoTT*](/abstracts/HoTT-2023_abstract_7.pdf)
 - <a name="neumann"/>Thorsten Altenkirch and **Jacob Neumann**, [*Presheaf Models of Polarized Higher-Order Abstract Syntax*](/abstracts/HoTT-2023_abstract_36.pdf)
 - <a name="rijke"/>**Egbert Rijke**, [*The agda-unimath library*](/abstracts/HoTT-2023_abstract_10.pdf)
@@ -72,7 +72,7 @@ title: "Programme"
 - <a name="swan"/>**Andrew Swan**, [*Oracle modalities*](/abstracts/HoTT-2023_abstract_35.pdf) [[slides](/slides/swan.pdf)]
 - <a name="uskuplu"/>**Elif Uskuplu**, [*Cofibrancy of The Exo-type of  Natural Numbers*](/abstracts/HoTT-2023_abstract_26.pdf)
 - <a name="weaver"/>Daniel R. Licata and **Matthew Weaver**, [*Theory and Implementation of Bicubical Directed Type Theory*](/abstracts/HoTT-2023_abstract_47.pdf)
-- <a name="weinberger"/>**Jonathan Weinberger**, [*Internal sums for synthetic fibered (∞,1)-categories*](/abstracts/HoTT-2023_abstract_14.pdf)
+- <a name="weinberger"/>**Jonathan Weinberger**, [*Internal sums for synthetic fibered (∞,1)-categories*](/abstracts/HoTT-2023_abstract_14.pdf) [[slides](/slides/weinberger.pdf)]
 - <a name="yuksel"/>**Errol Yuksel**, [*On the logic of sets in the simplicial model*](/abstracts/HoTT-2023_abstract_39.pdf)
 
 ### Social events {#social}
