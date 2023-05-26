@@ -62,7 +62,7 @@ title: "Programme"
 - <a name="leenasubramaniam"/>**Chaitanya Leena Subramaniam** and Michael Shulman, [*The FOLDS theory associated to a contextual category*](/abstracts/HoTT-2023_abstract_46.pdf) [[slides](/slides/leenasubramaniam.pdf)]
 - <a name="ljungstrom"/>**Axel Ljungström**, [*Symmetric Monoidal Smash Products in HoTT*](/abstracts/HoTT-2023_abstract_25.pdf) [[slides](/slides/ljungstrom.pdf)] \*\*\****Best student paper award winner***\*\*\*
 - <a name="martini"/>**Louis Martini** and Sebastian Wolf, [*Internal higher topos theory*](/abstracts/HoTT-2023_abstract_17.pdf) [[slides](/slides/martini.pdf)]
-- <a name="myers"/>**David Jaz Myers**, [*Orbifolds in Synthetic Differential Cohesive HoTT*](/abstracts/HoTT-2023_abstract_7.pdf)
+- <a name="myers"/>**David Jaz Myers**, [*Orbifolds in Synthetic Differential Cohesive HoTT*](/abstracts/HoTT-2023_abstract_7.pdf) [[slides](/slides/myers.pdf)]
 - <a name="neumann"/>Thorsten Altenkirch and **Jacob Neumann**, [*Presheaf Models of Polarized Higher-Order Abstract Syntax*](/abstracts/HoTT-2023_abstract_36.pdf) [[slides](/slides/neumann.pdf)]
 - <a name="rijke"/>**Egbert Rijke**, [*The agda-unimath library*](/abstracts/HoTT-2023_abstract_10.pdf) [[slides](/slides/rijke.pdf)]
 - <a name="riley"/>David Jaz Myers and **Mitchell Riley**, [*Commuting Cohesions*](/abstracts/HoTT-2023_abstract_8.pdf) [[slides](/slides/riley.pdf)]
