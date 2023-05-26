@@ -41,6 +41,6 @@
   excerpt: Participants
 
 # Add back when photos are available
-# - title: Photos
-#  url: /photos/
-#  excerpt: Group Photos
+- title: Photo
+  url: /photo/
+  excerpt: Group Photo
