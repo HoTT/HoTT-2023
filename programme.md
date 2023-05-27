@@ -38,10 +38,10 @@ title: "Programme"
 - <a name="shulman"/>**Michael Shulman**, [*The unifying power of modal type theory*](/abstracts/Shulman.pdf) [[slides](/slides/shulman.pdf)]
 
 ### Contributed talks
-- <a name="allioux"/>**Antoine Allioux**, [*Opetopic Methods in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_32.pdf)
+- <a name="allioux"/>**Antoine Allioux**, [*Opetopic Methods in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_32.pdf) [[slides](/slides/allioux.pdf)]
 - <a name="anel"/>**Mathieu Anel** and Jonathan Weinberger, [*Dependent type theories and base change theorems*](/abstracts/HoTT-2023_abstract_15.pdf) [[slides](/slides/anel.pdf)]
 - <a name="awodey"/>**Steve Awodey**, [*Algebraic type theory*](/abstracts/HoTT-2023_abstract_27.pdf) [[slides](/slides/awodey.pdf)]
-- <a name="baker"/>**Raymond Baker**, [*Eckmann-Hilton and the Hopf Fibration in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_16.pdf)
+- <a name="baker"/>**Raymond Baker**, [*Eckmann-Hilton and the Hopf Fibration in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_16.pdf) [[slides](/slides/baker.pdf)]
 - <a name="berry"/>**David Berry** and Marcelo Fiore, [*Formalization     Computation: Categorical Normalization by Evaluation*](/abstracts/HoTT-2023_abstract_29.pdf) [[slides](/slides/berry.pdf)]
 - <a name="cherradi"/>**El Mehdi Cherradi** and Nima Rasekh, [*Finite colimits in an elementary higher topos*](/abstracts/HoTT-2023_abstract_18.pdf)
 - <a name="cherubini"/>Ingo Blechschmidt, **Felix Cherubini** and David Wärn, [*Čech Cohomology in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_42.pdf) [[slides](/slides/cherubini.pdf)]
@@ -55,10 +55,10 @@ title: "Programme"
 - <a name="frey"/>**Jonas Frey**, [*Duality for Clans and the Fat Small Object Argument*](/abstracts/HoTT-2023_abstract_30.pdf) [[slides](/slides/frey.pdf)]
 - <a name="gratzer"/>**Daniel Gratzer**, Jonathan Sterling, Carlo Angiuli, Thierry Coquand and Lars Birkedal, [*Controlling unfolding in type theory using extension types*](/abstracts/HoTT-2023_abstract_19.pdf) [[slides](/slides/gratzer.pdf)]
 - <a name="hart"/>**Perry Hart** and  Favonia, [*Colimits in the category of pointed types*](/abstracts/HoTT-2023_abstract_37.pdf) [[slides](/slides/hart.pdf)]
-- <a name="herzog"/>**Ivo Herzog**, [*Goursat Homology*](/abstracts/HoTT-2023_abstract_44.pdf)
+- <a name="herzog"/>**Ivo Herzog**, [*Goursat Homology*](/abstracts/HoTT-2023_abstract_44.pdf) [[slides](/slides/herzog.pdf)]
 - <a name="hutzler"/>Felix Cherubini, Thierry Coquand and **Matthias Hutzler**, [*A Foundation for Synthetic Algebraic Geometry*](/abstracts/HoTT-2023_abstract_41.pdf) [[slides](/slides/hutzler.pdf)]
-- <a name="jack"/>**Tom Jack**, [*π₄𝕊³ ≇ 1 and another Brunerie number in CCHM*](/abstracts/HoTT-2023_abstract_21.pdf)
-- <a name="lavenir"/>**Samuel Lavenir**, [*Hilton-Milnor's theorem in higher categories*](/abstracts/HoTT-2023_abstract_43.pdf)
+- <a name="jack"/>**Tom Jack**, [*π₄𝕊³ ≇ 1 and another Brunerie number in CCHM*](/abstracts/HoTT-2023_abstract_21.pdf) [[slides](/slides/jack.pdf)]
+- <a name="lavenir"/>**Samuel Lavenir**, [*Hilton-Milnor's theorem in higher categories*](/abstracts/HoTT-2023_abstract_43.pdf) [[slides](/slides/lavenir.pdf)]
 - <a name="leenasubramaniam"/>**Chaitanya Leena Subramaniam** and Michael Shulman, [*The FOLDS theory associated to a contextual category*](/abstracts/HoTT-2023_abstract_46.pdf) [[slides](/slides/leenasubramaniam.pdf)]
 - <a name="ljungstrom"/>**Axel Ljungström**, [*Symmetric Monoidal Smash Products in HoTT*](/abstracts/HoTT-2023_abstract_25.pdf) [[slides](/slides/ljungstrom.pdf)] \*\*\****Best student paper award winner***\*\*\*
 - <a name="martini"/>**Louis Martini** and Sebastian Wolf, [*Internal higher topos theory*](/abstracts/HoTT-2023_abstract_17.pdf) [[slides](/slides/martini.pdf)]
