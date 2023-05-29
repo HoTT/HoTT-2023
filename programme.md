@@ -43,7 +43,7 @@ title: "Programme"
 - <a name="awodey"/>**Steve Awodey**, [*Algebraic type theory*](/abstracts/HoTT-2023_abstract_27.pdf) [[slides](/slides/awodey.pdf)]
 - <a name="baker"/>**Raymond Baker**, [*Eckmann-Hilton and the Hopf Fibration in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_16.pdf) [[slides](/slides/baker.pdf)]
 - <a name="berry"/>**David Berry** and Marcelo Fiore, [*Formalization     Computation: Categorical Normalization by Evaluation*](/abstracts/HoTT-2023_abstract_29.pdf) [[slides](/slides/berry.pdf)]
-- <a name="cherradi"/>**El Mehdi Cherradi** and Nima Rasekh, [*Finite colimits in an elementary higher topos*](/abstracts/HoTT-2023_abstract_18.pdf)
+- <a name="cherradi"/>**El Mehdi Cherradi** and Nima Rasekh, [*Finite colimits in an elementary higher topos*](/abstracts/HoTT-2023_abstract_18.pdf) [[slides](/slides/cherradi.pdf)]
 - <a name="cherubini"/>Ingo Blechschmidt, **Felix Cherubini** and David Wärn, [*Čech Cohomology in Homotopy Type Theory*](/abstracts/HoTT-2023_abstract_42.pdf) [[slides](/slides/cherubini.pdf)]
 - <a name="christensen"/>**J. Daniel Christensen** and Jarl G. Taxerås Flaten, [*Ext groups in homotopy type theory*](/abstracts/HoTT-2023_abstract_31.pdf) [[slides](/slides/christensen.pdf)]
 - <a name="cioffo"/>**Cipriano Junior Cioffo**, [*Biased elementary doctrines and quotient completions*](/abstracts/HoTT-2023_abstract_34.pdf) [[slides](/slides/cioffo.pdf)]
