@@ -73,9 +73,5 @@ or by email at e dot m dot hislastname at gmail dot com.
 
 The meeting is being hosted by the [HoTT group at CMU](https://www.cmu.edu/dietrich/philosophy/hott/).
 
-#### Poster
-
-[![Conference poster](/images/HoTT2023poster-lowres.jpg){: width="500"}](images/HoTT2023poster.pdf)
-
 <small> Contact: [hott2023conference@gmail.com](mailto:hott2023conference@gmail.com).
 </small>
