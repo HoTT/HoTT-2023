@@ -5,7 +5,7 @@ title: "Homotopy Type Theory 2023"
 ---
 
 The Second International **Conference on [Homotopy Type
-Theory](https://homotopytypetheory.org)** (HoTT 2023) will take place 
+Theory](https://homotopytypetheory.org)** (HoTT 2023) took place 
 
 > **Monday 22nd May to Thursday 25th May**
 
