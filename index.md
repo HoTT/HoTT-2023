@@ -13,9 +13,10 @@ at Carnegie Mellon University in Pittsburgh, USA.  (See
 [here](https://hott.github.io/HoTT-2019/) for the previous conference.)
 
 
-### News
+### Special issue in MSCS
 
-There will be a special issue for the conference in MSCS!
+A special issue of the journal MSCS is being planned for the HoTT 2023 Conference. We hope that the speakers will consider submitting their papers or related ones. Details to follow soon.
+
 
 ### Invited Speakers
 
