@@ -13,6 +13,10 @@ at Carnegie Mellon University in Pittsburgh, USA.  (See
 [here](https://hott.github.io/HoTT-2019/) for the previous conference.)
 
 
+### News
+
+There will be a special issue for the conference in MSCS!
+
 ### Invited Speakers
 
 * [Julie Bergner](https://sites.google.com/view/julie-bergner/) (University of Virginia, USA)
