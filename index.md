@@ -12,10 +12,25 @@ Theory](https://homotopytypetheory.org)** (HoTT 2023) took place
 at Carnegie Mellon University in Pittsburgh, USA.  (See
 [here](https://hott.github.io/HoTT-2019/) for the previous conference.)
 
+### Call for Papers --- MSCS Special Issue “Advances in Homotopy Type Theory”
 
-### Special issue in MSCS
+Submissions are now open for a **special issue** of [Mathematical Structures in
+Computer
+Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
+entitled **Advances in Homotopy Type Theory**. Papers based on talks presented
+at the International Conference in Homotopy Type Theory held at Carnegie Mellon
+University in May 2023 are encouraged.  Submissions should be made via the [MSCS
+Scholar One
+portal](https://mc.manuscriptcentral.com/mscs),
+choosing the name of the special issue from the drop-down list on page one.
 
-A special issue of the journal MSCS is being planned for the HoTT 2023 Conference. We hope that the speakers will consider submitting their papers or related ones. Details to follow soon.
+
+
+The **deadline** for submissions is  **31st January 2024**.
+
+The guest editors of the special issue are Thorsten Altenkirch (University of
+Nottingham), Benno van den Berg (University of Amsterdam), Nicola Gambino
+(University of Manchester) and Maria Emilia Maietti (University of Padua).
 
 
 ### Invited Speakers
