@@ -18,10 +18,8 @@ Submissions are now open for a **special issue** of [Mathematical Structures in
 Computer
 Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
 entitled **Advances in Homotopy Type Theory**. Papers based on talks presented
-at the International Conference in Homotopy Type Theory held at Carnegie Mellon
-University in May 2023 are encouraged.  Submissions should be made via the [MSCS
-Scholar One
-portal](https://mc.manuscriptcentral.com/mscs),
+at the Conference are encouraged.  Submissions should be made via the [MSCS
+Scholar One portal](https://mc.manuscriptcentral.com/mscs),
 choosing the name of the special issue from the drop-down list on page one.
 
 
